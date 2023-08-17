@@ -1,10 +1,7 @@
 - 👋 Hi, I’m @tomasrodriguess
-- 👀 I’m interested in artificial intelligence
-<!--- - 🌱 I’m currently learning React.js
-- 💞️ I’m looking to collaborate on ... --->
-- 📫 How to reach me: e-mail-> tomasdcrodrigues@gmail.com LinkedIn: @tomasrodriguess
-
-<!---
-tomasrodriguess/tomasrodriguess is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in artificial intelligence and data science
+- 👨🏻‍💻 Currently learning React.JS and Node.JS
+- 👷🏻‍♂️ Developing MERN app
+- 🔜 Start API development
+- 🚴‍♂️ Working at Caixa Mágica Software while writing Master thesis
+- 📫 How to reach me: e-mail-> [tomasdcrodrigues@gmail.com](mailto:tomasdcrodrigues@gmail.com)
