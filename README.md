@@ -3,5 +3,5 @@
 - 👨🏻‍💻 Currently learning React.JS and Node.JS
 - 👷🏻‍♂️ Developing MERN app
 - 🔜 Start API development
-- 🚴‍♂️ Working at Caixa Mágica Software while writing Master thesis
+- 🚴‍♂️ Working at Caixa Mágica Software 
 - 📫 How to reach me: e-mail-> [tomasdcrodrigues@gmail.com](mailto:tomasdcrodrigues@gmail.com)
